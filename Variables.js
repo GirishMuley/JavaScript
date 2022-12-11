@@ -11,3 +11,6 @@ console.log(b);
 const pincode = 431203; //the const declaration creates block-sccoped constants
 // pincode = 454545; throws an error because constant cannot be changed
 console.log(pincode);
+let foo = 42;
+foo = "Girish";
+console.log(foo);
