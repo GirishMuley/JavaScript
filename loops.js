@@ -36,4 +36,19 @@ for (let value of "Girish") {
   console.log(value);
 }
 
-//
+//while loop
+let count = 5;
+let i = 0;
+while (i < n) {
+  console.log(i);
+  i++;
+}
+
+//Do-while loop
+//do while loop execute at least one's even if condition is false
+let counetr = 0;
+let number = 5;
+do {
+  console.log(counetr);
+  counetr++;
+} while (counetr < number);
