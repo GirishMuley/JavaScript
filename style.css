@@ -6,9 +6,12 @@ body {
   padding: 0;
 }
 
-.yellow {
-  background-color: yellow;
+.bulb {
+  height: 100px;
+  width: 100px;
+  background: yellow;
 }
-.red {
-  background-color: red;
+.bulb-container {
+  height: 100px;
+  width: 100px;
 }
